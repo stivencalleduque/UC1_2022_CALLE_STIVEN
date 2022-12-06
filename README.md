@@ -2,7 +2,7 @@
 
 *Curso:* Microcontroladores I
 
-*Autor:*STIVEN JAVIER CALLE DUQUE
+*Autor:* STIVEN JAVIER CALLE DUQUE
 
  Tarjeta: Curiosity Nano PIC18f57q84
 
